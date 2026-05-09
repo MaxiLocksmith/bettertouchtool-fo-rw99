@@ -1,4 +1,4 @@
-
+BetterTouchTool for macOS smart Script - duplicate-finder and battery-health is the best BetterTouchTool for macOS script, featuring duplicate-finder and battery-health. Safe,
 
 
 
